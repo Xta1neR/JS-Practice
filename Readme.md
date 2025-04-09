@@ -4,3 +4,4 @@
 
 ### Index
 1. A simple application explaining the logic behind the Traffic Lights - trafficLight.js
+2. Grading System - gradeSystem.js
