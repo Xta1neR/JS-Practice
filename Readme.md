@@ -5,3 +5,4 @@
 ### Index
 1. A simple application explaining the logic behind the Traffic Lights - trafficLight.js
 2. Grading System - gradeSystem.js
+3. Popcorn price calculating System - popcornPrice.js
