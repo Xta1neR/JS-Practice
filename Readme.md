@@ -8,3 +8,5 @@
 3. Popcorn price calculating System - popcornPrice.js
 4. To check weather a good string or not, a good string starts with 'a' and has a length more than 3 - goodString.js
 5. Tell which day of the week is today using switch cases - switchWeekday.js
+6. Practice Questions to learn the methods of Strings in js - StringQuestions.js
+7. Practice questions for array - arrayPractice.js
