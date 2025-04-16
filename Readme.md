@@ -12,3 +12,8 @@
 7. Practice questions for array - arrayPractice.js
 8. Print all odd numbers (1 to 15) - oddFor.js
 9. Print table of a given number - Table.js
+
+10. PROJECT 01 : GUESS THE FAVOURITE MOVIE GAME - MovieGame.js
+11. PROJECT 02 : TO-DO LIST WITH JS ONLY - Todo.js
+
+12. Loops practice questions. - loopQuestions.js
